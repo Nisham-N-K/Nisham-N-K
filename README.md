@@ -15,9 +15,9 @@ Here are some of the projects I'm currently working on or have recently complete
 
 1. [eCommerce platform](https://github.com/Nisham-N-K/Mini-eCommerce-Management-System.git): "Modern eCommerce platform for seamless shopping experiences. Secure payments, wide product range, and robust merchant tools for growth."
 2. [Simple Birthday Wishing](https://github.com/Nisham-N-K/Birthday.git): "Effortlessly send heartfelt birthday wishes with our user-friendly platform. Choose from a variety of charming cards and personalize your message in seconds. Spread joy and make someone's day special, hassle-free."
-3.[College Management Mobile App]: *College Management Mobile App*: Developed an app for streamlining college operations like attendance and communication.
-4.[eCommerce platform]: *eCommerce Platform Development*: Created an online platform for buying and selling products.
-5. [leaderboard](https://github.com/SHABIN-K/leaderboard.git):5. *Arts Festival Scoreboard*: Designed a digital scoreboard system for college arts festivals.
+3. [College Management Mobile App]: *College Management Mobile App*: Developed an app for streamlining college operations like attendance and communication.
+4. [eCommerce platform]: *eCommerce Platform Development*: Created an online platform for buying and selling products.
+5.  [leaderboard](https://github.com/SHABIN-K/leaderboard.git):5. *Arts Festival Scoreboard*: Designed a digital scoreboard system for college arts festivals.
 
 Feel free to explore my repositories for more projects and contributions!
 
