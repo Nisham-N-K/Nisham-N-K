@@ -22,7 +22,7 @@ Feel free to explore my repositories for more projects and contributions!
 
 - 📧 Email: [nishamnishamnk@gmail.com](mailto:nishamnishamnk@gmail.com)
 - 💼 LinkedIn: [Mohammed Nisham NK](https://linkedin.com/in/mohammed-nisham-nk-b9a05b267)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- 🐦 Twitter: [Nisham NK](https://x.com/NishamNk26037?t=tdAtoSHaecgVTijX0AI8Yg&s=09)
 - 📸 Instagram: [nisham_nk](https://www.instagram.com/nisham_nk?igsh=MW9wbGxlbnI3YXkwYg==)
 
 Let's connect and collaborate on exciting projects together! 😊
